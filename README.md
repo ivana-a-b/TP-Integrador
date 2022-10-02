@@ -1,2 +1,2 @@
 # TP-Integrador
-Trabajo parctico Codo a Codo
+Trabajo practico Codo a Codo
